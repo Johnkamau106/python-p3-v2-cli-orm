@@ -2,6 +2,9 @@ from models.__init__ import CONN, CURSOR
 from models.employee import Employee
 from models.department import Department
 from faker import Faker
+
+
+
 import pytest
 
 
